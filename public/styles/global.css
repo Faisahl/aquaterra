@@ -84,7 +84,7 @@ body {
 .hero {
   position: relative;
   /* background-image: url("/images/fish-hero-lg.jpg"); */
-  background-image: url("/aquaterra/images/fish-hero-lg.jpg");
+  background-image: url("/aquaterra/images/fish-hero-sm.jpg");
   background-size: cover;
   background-position: center;
   min-height: 75vh;
